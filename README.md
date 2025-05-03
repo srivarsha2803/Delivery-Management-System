@@ -8,7 +8,7 @@ DeliverEase is an all-in-one delivery management platform designed to streamline
 - **Frontend:** [Delivery Management Frontend](https://github.com/SETeam22/DMS_frontend)  
 - **Demo Video:** [Watch Demo](https://drive.google.com/drive/folders/1P9zzaM-4nDQckOXRwM8M5cENCHY_8o1c?usp=sharing)
   
-## ✅ Key Features & Milestones
+## ✅ Key Features 
 
 - **User-Friendly Interface:** Distinct home pages for logged-in users and guests, enhancing the overall experience.
 - **Secure Registration Process:** Security questions, OTP verification, and Google login integration for secure onboarding.
